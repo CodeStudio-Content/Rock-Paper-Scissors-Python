@@ -27,6 +27,13 @@ The game is played by two players, each making one of three hand gestures: "rock
 4. The game determines the winner based on the rules of the game.
 5. The game is played for five rounds, with the winner being the player or computer with the most wins at the end of the game.
 
+
+## Blog
+
+Check out our project blog post for more information on the development process and our thoughts on the Rock Paper Scissors project:
+
+* [Rock Paper Scissors using Python](https://www.codingninjas.com/codestudio/library/rock-paper-scissors-game-in-python?utm_source=github&utm_medium=organic&utm_campaign=blog-rock-paper-scissors-game-in-python)
+
 ## Code Structure
 
 ### The code is organized into the following functions:
